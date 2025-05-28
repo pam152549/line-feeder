@@ -1,0 +1,4 @@
+mkdir esp32-line-server
+cd esp32-line-server
+npm init -y
+npm install express axios
